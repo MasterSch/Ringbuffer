@@ -1,2 +1,2 @@
 # Ringbuffer
- RungBuffer from WiFiESP Library
+ RingBuffer from WiFiESP Library
